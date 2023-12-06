@@ -1,0 +1,15 @@
+h1 { 
+    color: #00ff08;
+    font-style: oblique;
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.grotesk {
+    font-family: sans-serif;
+    font-size: 70px;
+    background: lime;
+}
